@@ -1,0 +1,17 @@
+{
+  "name": "dasq-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "dotenv": "^2.0.0",
+    "oauth": "^0.9.14",
+    "request": "^2.79.0"
+  }
+}
