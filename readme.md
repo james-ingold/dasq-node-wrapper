@@ -4,7 +4,7 @@ Promise based node wrapper for the Das Q Keyboard API.
 ## API
 * `clients` (Gets 3rd party clients)
 * `colors` (Get predefined colors)
-* `createSignal(name, pid, zoneId, color)` (Create a signal)
+* `createSignal(name, pid, zoneId, color, effect)` (Create a signal)
 * `devices` (List devices linked to your account)
 * `deviceDefinitions` (List available device definitions)
 * `effects(pid)` (Get available effects for a device)
