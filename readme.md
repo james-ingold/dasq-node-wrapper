@@ -21,3 +21,7 @@ Promise based node wrapper for the Das Q Keyboard API.
         console.log(result);
 });
 ```
+
+**Q Documentation**
+
+https://github.com/DasKeyboard/q/blob/master/q-api-doc.md
